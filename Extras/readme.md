@@ -1,0 +1,1 @@
+#### This experiment was conducted with pyAutogen studio using the "claude-3-opus-20240229" model. As it was performed within the studio environment, all setups (Models, Skills, Workflows, Playground) were established without writing any code.
