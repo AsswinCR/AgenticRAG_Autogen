@@ -1,3 +1,4 @@
+### Output of Approach 1 for the code execution Task ( on dummy dataset)
 Init (to chat_manager):
 
 Write a python script to implement this paper titiled "graph2vec: Learning Distributed Representations of Graphs" available at the link https://arxiv.org/abs/1707.05005, get the core algorithm of the paper, formulalte how to implement it step by step and run and execute the code with a dummy dataset and print the final evaluation metrics such as precision, recall and F1 score.
